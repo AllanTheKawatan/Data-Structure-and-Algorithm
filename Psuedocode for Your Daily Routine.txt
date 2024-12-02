@@ -1,0 +1,56 @@
+Step 1:
+
+//to add to my daily return routine, add a variable or char. ex, cooking and preparing breakfast
+
+//add a ingredient char and equipment char
+
+ingred = egg, hotdog, salt, magicsarap, oil
+
+equipment = pan, spatula, spoon, fork, 
+
+// use if-statement to check if all is available then print "not available" when not available.
+
+if equipment is avail:
+
+   print "ready to cook"
+
+else:
+
+         print "not available"
+
+ 
+
+Step 2:
+
+// add another var or and use cin to declare to prepare the ingredients and equipment.
+
+ 
+
+ 
+
+Step 3:
+
+// add a timer function when the cook is in processes of cooking.
+
+egg.setTimer(60)
+
+hotdog.setTimer(60)
+
+Step 4:
+
+//put the food on the plate using .add
+
+plate = PlaceOnTable()
+plate.AddEggs()
+
+plate.AddHotdog()
+
+ 
+
+Step 5:
+
+// after placing the food on the plate, print "Enjoy Your Almusal" using cout (is using c++)
+
+print "Enjoy your Almusal"
+
+return 0;
